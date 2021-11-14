@@ -5,6 +5,9 @@ public class PrimeiroProgramaJava {
 		// TODO Auto-generated method stub
 		
 		System.out.print("Ola mundo");
+		
+		System.out.println("ola mundo 2");
+		
 
 	}
 
